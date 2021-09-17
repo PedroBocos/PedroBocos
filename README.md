@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroBocos, brazillian 
 - 👀 I’m interested in interested in learning from more experienced devs and exchanging experiences with beginners like me.
-- 🌱 I’m currently learning python, SQL, java, javascript... just the basic for now.
+- 🌱 I’m currently learning python, C, HTML, CSS javascript... just the basic for now.
 - 💞️ I’m looking to collaborate on projects for beginners  
         
 <!---
